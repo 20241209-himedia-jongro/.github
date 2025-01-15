@@ -17,7 +17,7 @@
 ### [01_JavaPractice](https://github.com/20241209-himedia-jongro/01_java_practice)
 
 #### 01. Back-end Basic
-
+### [03_JDBC](https://github.com/20241209-himedia-jongro/03_jdbc)
 #### 02. Front-end Foundation
 
 #### 03. Web Foundation
