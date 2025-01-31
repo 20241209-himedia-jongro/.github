@@ -12,16 +12,21 @@
 ---
 ## 수업 내용
 > 수업에서 사용한 소스 코드는 수업이 진행됨에 따라 이곳에 올려드리겠습니다. :relaxed:
-#### 00. Back-end Foundation
-### [01_Java](https://github.com/20241209-himedia-jongro/01_java)
-### [01_JavaPractice](https://github.com/20241209-himedia-jongro/01_java_practice)
+### 00. Back-end Foundation
+#### [01_Java](https://github.com/20241209-himedia-jongro/01_java)
+#### [01_JavaPractice](https://github.com/20241209-himedia-jongro/01_java_practice)
 
-#### 01. Back-end Basic
-### [03_JDBC](https://github.com/20241209-himedia-jongro/03_jdbc)
-#### 02. Front-end Foundation
+### 01. Back-end Basic
+#### [03_JDBC](https://github.com/20241209-himedia-jongro/03_jdbc)
+#### [04_MyBatis](https://github.com/20241209-himedia-jongro/04_mybatis)
 
-#### 03. Web Foundation
+### 02. Front-end Foundation
+#### [05_HTML5](https://github.com/20241209-himedia-jongro/05_html)
+#### [06_CSS3](https://github.com/20241209-himedia-jongro/06_css)
+#### [07_JavaScript](https://github.com/20241209-himedia-jongro/07_javascript)
 
-#### 04. Spring Framework
+### 03. Web Foundation
 
-#### 05. React.js
+### 04. Spring Framework
+
+### 05. React.js
