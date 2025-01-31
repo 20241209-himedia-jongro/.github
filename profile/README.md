@@ -15,6 +15,8 @@
 ### 00. Back-end Foundation
 #### [01_Java](https://github.com/20241209-himedia-jongro/01_java)
 #### [01_JavaPractice](https://github.com/20241209-himedia-jongro/01_java_practice)
+#### [02_MySQL](https://github.com/20241209-himedia-jongro/02_mysql)
+#### [02_MySQLPractice](https://github.com/20241209-himedia-jongro/02_mysql_practice)
 
 ### 01. Back-end Basic
 #### [03_JDBC](https://github.com/20241209-himedia-jongro/03_jdbc)
