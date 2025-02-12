@@ -28,6 +28,7 @@
 #### [07_JavaScript](https://github.com/20241209-himedia-jongro/07_javascript)
 
 ### 03. Web Foundation
+#### [08_Servlet](https://github.com/20241209-himedia-jongro/08_servlet)
 
 ### 04. Spring Framework
 
