@@ -29,7 +29,9 @@
 
 ### 03. Web Foundation
 #### [08_Servlet](https://github.com/20241209-himedia-jongro/08_servlet)
+#### [09_JSP](https://github.com/20241209-himedia-jongro/09_jsp)
 
 ### 04. Spring Framework
+#### [10_Spring Framework](https://github.com/20241209-himedia-jongro/10_spring)
 
 ### 05. React.js
